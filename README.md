@@ -24,4 +24,4 @@ Rather than just visualizing numbers, this dashboard was built using strict data
 
 ---
 *(Insert your dashboard screenshot below)*
-![Dashboard Preview](Sample%20dashbord_0324.png)
+![Dashboard Preview](Sample dashbord_0324_1.png)
