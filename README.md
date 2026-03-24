@@ -22,6 +22,4 @@ Rather than just visualizing numbers, this dashboard was built using strict data
 * Advanced Excel (Pivot Tables, Pivot Charts, Slicers)
 * Data Cleaning & Formatting
 
----
-*(Insert your dashboard screenshot below)*
-![Dashboard Preview](Sample dashbord_0324_1.png)
+* Additionally, the dashboard pictures are also available, please take a look :-).
